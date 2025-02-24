@@ -69,9 +69,22 @@ body {
 
 #footer {
   display: block;
-  height: 8rem;
+  height: 15rem;
   margin-top: 15rem;
   text-align: center;
   justify-content: center;
   align-items: center;
+}
+
+.explore-code {
+  display: block;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 2.625rem;
+  margin: 50px auto 0 auto;
+  text-align: center;
+  color: #fffc9f;
+  margin: auto;
+  padding: auto;
 }
